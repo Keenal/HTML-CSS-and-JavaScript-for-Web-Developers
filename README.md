@@ -1,1 +1,1 @@
-# Web-Development
+# HTML, CSS and JavaScript for Web Developers
