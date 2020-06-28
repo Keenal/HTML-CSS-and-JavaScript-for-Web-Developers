@@ -1,0 +1,96 @@
+body {
+    background-color: olivedrab;
+    
+}
+
+
+.navbar-header h1 { /* Restaurant name */
+    font-family: 'Oxygen', sans-serif;
+    color: olivedrab;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+}
+
+
+.navbar {
+    color: black;
+    background-color: black;
+    border-radius: 0;
+    border: 0px;
+    font-weight: bold;
+    text-align: center;
+}  
+
+.navbar-nav {
+    background-color:lightgrey;
+    margin: 0px 0px 1px 0px;
+}
+
+.navbar-collapse {
+    padding: 0px;
+}
+
+#nav-list {
+    margin-top: 10px;
+    border-color: black;
+}
+#nav-list a {
+    font-family: 'Oxygen', sans-serif;
+    text-align: center;
+    color: black;
+}
+#nav-list a:hover {
+    background: olivedrab;
+    color: white;
+}
+
+h1 {
+    font-family: 'Oxygen', sans-serif;
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}
+
+h2 {
+    color: olivedrab;
+}
+
+h4 {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Oxygen', sans-serif;
+}
+
+
+#pizza {
+    background-color: lightgray;
+    border: 10px 10px 10px 10px;
+    padding: 0px 10px 10px 10px;
+    margin: 30px 30px 30px 30px;
+
+}
+
+#pasta {
+    background-color: lightgray;
+    border: 10px 10px 10px 10px;
+    padding: 0px 10px 10px 10px;
+    margin: 30px 30px 30px 30px;
+
+}
+
+#bruschetta {
+    background-color: lightgray;
+    border: 10px 10px 10px 10px;
+    padding: 0px 10px 10px 10px;
+    margin: 30px 30px 30px 30px;
+
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
